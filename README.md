@@ -1,1 +1,1 @@
-Mini projeto de landing page Tecboard, do crso de html e css da alura
+Mini projeto de landing page Tecboard, do curso de html e css da alura
